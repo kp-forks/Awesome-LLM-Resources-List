@@ -229,13 +229,13 @@ Please see this [google sheet](https://docs.google.com/spreadsheets/d/1zjcww1w0v
 ### Long-Term Memory
 
 | Provider     | Community             | Founded     | GitHub                                                                                          | ⭐ Stars | Open Source                 |
-|--------------|------------------------|-------------|--------------------------------------------------------------------------------------------------|---------|-----------------------------|              |
+|--------------|------------------------|-------------|--------------------------------------------------------------------------------------------------|---------|-----------------------------|              
 | Letta        | 💬 Active dev community| Oct 2023    | [![GitHub followers](https://img.shields.io/github/followers/letta-ai?style=flat-square&color=teal)](https://github.com/letta-ai/letta)     | 17k     | ✅ Apache-2.0               |
 | Zep          | 🤝 Moderate community  | Aug 2024    | [![GitHub followers](https://img.shields.io/github/followers/getzep?style=flat-square&color=teal)](https://github.com/getzep/graphiti)      | 11.6k   | ⚠️ Graphiti CE (Apache-2.0) |
 | MemoRAG      | 🧪 Small research group| Sep 2024    | [![GitHub followers](https://img.shields.io/github/followers/qhjqhj00?style=flat-square&color=teal)](https://github.com/qhjqhj00/MemoRAG)    | 1.8k    | ✅ Apache-2.0               |
 | Memary       | 🧠 Niche community     | April 2024  | [![GitHub followers](https://img.shields.io/github/followers/kingjulio8238?style=flat-square&color=teal)](https://github.com/kingjulio8238/Memary) | 2.3k    | ✅ MIT                      |
 | Cognee       | 🔄 Moderate            | Aug 2023    | [![GitHub followers](https://img.shields.io/github/followers/topoteretes?style=flat-square&color=teal)](https://github.com/topoteretes/cognee)     | 5.8k    | ✅ Apache-2.0               |
-| Mem0         | 🚀 Fast-growing        | June 2023   | [![GitHub followers](https://img.shields.io/github/followers/mem0ai?style=flat-square&color=teal)](https://github.com/mem0ai/mem0)         | 35.2k   | ✅ Apache-2.0 
+| Mem0         | 🚀 Fast-growing        | June 2023   | [![GitHub followers](https://img.shields.io/github/followers/mem0ai?style=flat-square&color=teal)](https://github.com/mem0ai/mem0)         | 35.2k   | ✅ Apache-2.0 |
 
 #### Memory Features Comparison
 
